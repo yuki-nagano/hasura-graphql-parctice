@@ -1,1 +1,1 @@
-# hasura-graphql-parctice
+# Hasura/Graphql Parctice Repo!
