@@ -5,3 +5,6 @@
 
 # local db data
 db_data
+
+# env file
+.env
